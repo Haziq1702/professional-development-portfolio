@@ -1,7 +1,12 @@
 
 ## Introduction:
 
-Greetings! I am Haziq, a first-year Computer Science student, specializing in Networking & Computer Security at Universiti Teknologi Malaysia (UTM). I am a Pahang Engineering Matriculation College graduate. As for my career target, I am most interested in the Network Engineer or Cybersecurity Specialist role but I am willing to explore other roles to broaden my knowledge within cybersecurity.
+Hi! I'm Haziq, a first-year Computer Science student specializing in Networking and Computer Security at Universiti Teknologi Malaysia (UTM).
+
+I am a graduate of Pahang Matriculation College (Engineering Programme), with a strong interest in networking and cybersecurity.
+
+My career interests include becoming a Network Engineer or Cybersecurity Specialist. I am also open to exploring other areas of technology to expand my knowledge and technical skills.
+
 
 ## Skills & Interests:
 
